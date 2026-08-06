@@ -1,3 +1,4 @@
 ---
-follow the work flow written in C:\AI-Learning\.github\agents\Stockanalyzer.agent.md for stock analysis
+description: Follow the workflow written in agents/Stockanalyzer.agent.md for stock analysis.
+applyTo: **/*.md
 ---
