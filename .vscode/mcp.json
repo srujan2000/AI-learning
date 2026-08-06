@@ -1,0 +1,27 @@
+{
+    "mcpServers": {
+        "growwmcp": {
+            "command": "npx",
+            "args": [
+                "mcp-remote",
+                "https://mcp.groww.in/mcp"
+            ]
+        },
+        "kite": {
+            "command": "npx",
+            "args": [
+                "mcp-remote",
+                "https://mcp.kite.trade/mcp"
+            ]
+        }
+    },
+    "inputs": [],
+    "servers": {
+        "growwmcp": {
+            "url": "https://mcp.groww.in/mcp"
+        },
+        "kite": {
+            "url": "https://mcp.kite.trade/mcp"
+        }
+    }
+}
